@@ -6,7 +6,7 @@
   - photograpy and its toolchain
   - DIY / electronics / SBC
   - music stuff; i.e. DAWs, plugins, 
-- 📫 How to reach me: mattias at lindqvist dot se
+- 📫 How to reach me: mattias at lindqvist dot nu
 
 <!---
 twigoftilia/twigoftilia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
