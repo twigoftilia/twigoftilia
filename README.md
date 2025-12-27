@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Mattias / @twigoftilia
-- 👀 I’m interested in lots of stuff, for example - but not limited to
-  - programming; i.e. rust, c, bash, java, wasm, python whatever 
-  - software architecture
-  - iam stuff; i.e. OIDC and keycloak
-  - photograpy and its toolchain
-  - DIY / electronics / SBC
-  - music stuff; i.e. DAWs, plugins, 
+- 👋 Hi, I’m Mattias / @twigoftilia. 
+- 👀 
+  - Rust, c, python, js... whatever.
+  - Some tech domain interests: photograpy, DIY / electronics / SBC / HA, ai/llm, music, drones or whatever is fun for the day
 - 📫 How to reach me: mattias at lindqvist dot nu
 
 <!---
